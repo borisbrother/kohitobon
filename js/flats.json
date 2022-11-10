@@ -1,0 +1,971 @@
+{
+    "flat27":
+    {
+        "name": 21,
+        "ftype": "22-1",
+        "etazh": 2,
+        "number": 2,
+        "status": 2
+    },
+    "flat25":
+    {
+        "name": 22,
+        "ftype": "22-2",
+        "etazh": 2,
+        "number": 3,
+        "status": 2
+    },
+    "flat21":
+    {
+        "name": 23,
+        "ftype": "22-3",
+        "etazh": 2,
+        "number": 5,
+        "status": 2
+    }
+
+    ,
+    "flat23":
+    {
+        "name": 26,
+        "ftype": "22-6",
+        "etazh": 2,
+        "number": 3,
+        "status": 2
+    },
+    "flat24":
+    {
+        "name": 27,
+        "ftype": "22-7",
+        "etazh": 2,
+        "number": 3,
+        "status": 2
+    },
+    "flat26":
+    {
+        "name": 28,
+        "ftype": "22-8",
+        "etazh": 2,
+        "number": 2,
+        "status": 2
+    }
+
+
+
+    ,
+    "flat37":
+    {
+        "name": 31,
+        "ftype": "2-3",
+        "etazh": 3,
+        "number": 2,
+        "status": 2
+    },
+    "flat35":
+    {
+        "name": 32,
+        "ftype": "3-2",
+        "etazh": 3,
+        "number": 3,
+        "status": 2
+    },
+    "flat31":
+    {
+        "name": 33,
+        "ftype": "4-1",
+        "etazh": 3,
+        "number": 4,
+        "status": 2
+    }
+
+    ,
+    "flat33":
+    {
+        "name": 36,
+        "ftype": "4-2",
+        "etazh": 3,
+        "number": 4,
+        "status": 2
+    },
+    "flat34":
+    {
+        "name": 37,
+        "ftype": "3-1",
+        "etazh": 3,
+        "number": 3,
+        "status": 2
+    },
+    "flat36":
+    {
+        "name": 38,
+        "ftype": "2-2",
+        "etazh": 3,
+        "number": 2,
+        "status": 2
+    }
+
+
+    ,
+    "flat47":
+    {
+        "name": 41,
+        "ftype": "44-1",
+        "etazh": 4,
+        "number": 2,
+        "status": 2
+    },
+    "flat45":
+    {
+        "name": 42,
+        "ftype": "44-2",
+        "etazh": 4,
+        "number": 3,
+        "status": 2
+    },
+    "flat41":
+    {
+        "name": 43,
+        "ftype": "44-3",
+        "etazh": 4,
+        "number": 3,
+        "status": 2
+    },
+    "flat41-1":
+    {
+        "name": 44,
+        "ftype": "44-4",
+        "etazh": 4,
+        "number": 1,
+        "status": 1
+    }
+
+    ,
+    "flat43":
+    {
+        "name": 46,
+        "ftype": "44-6",
+        "etazh": 4,
+        "number": 4,
+        "status": 2
+    },
+    "flat44":
+    {
+        "name": 47,
+        "ftype": "44-7",
+        "etazh": 4,
+        "number": 3,
+        "status": 2
+    },
+    "flat46":
+    {
+        "name": 48,
+        "ftype": "44-8",
+        "etazh": 4,
+        "number": 2,
+        "status": 2
+    }
+
+
+    ,
+    "flat57":
+    {
+        "name": 51,
+        "ftype": "5-1",
+        "etazh": 5,
+        "number": 2,
+        "status": 2
+    },
+    "flat55":
+    {
+        "name": 52,
+        "ftype": "5-2",
+        "etazh": 5,
+        "number": 3,
+        "status": 2
+    },
+    "flat51":
+    {
+        "name": 53,
+        "ftype": "5-3",
+        "etazh": 5,
+        "number": 5,
+        "status": 2
+    }
+
+    ,
+    "flat53":
+    {
+        "name": 56,
+        "ftype": "5-6",
+        "etazh": 5,
+        "number": 3,
+        "status": 2
+    },
+    "flat54":
+    {
+        "name": 57,
+        "ftype": "5-7",
+        "etazh": 5,
+        "number": 3,
+        "status": 2
+    },
+    "flat56":
+    {
+        "name": 58,
+        "ftype": "5-8",
+        "etazh": 5,
+        "number": 2,
+        "status": 2
+    }
+
+
+
+    ,
+    "flat67":
+    {
+        "name": 61,
+        "ftype": "66-1",
+        "etazh": 6,
+        "number": 2,
+        "status": 2
+    },
+    "flat68":
+    {
+        "name": 62,
+        "ftype": "66-2",
+        "etazh": 6,
+        "number": 3,
+        "status": 2
+    },
+    "flat61":
+    {
+        "name": 63,
+        "ftype": "6-3",
+        "etazh": 6,
+        "number": 4,
+        "status": 2
+    }
+
+    ,
+    "flat63":
+    {
+        "name": 66,
+        "ftype": "6-6",
+        "etazh": 6,
+        "number": 4,
+        "status": 2
+    },
+    "flat64":
+    {
+        "name": 67,
+        "ftype": "6-7",
+        "etazh": 6,
+        "number": 3,
+        "status": 2
+    }
+
+
+
+
+    ,
+    "flat77":
+    {
+        "name": 71,
+        "ftype": "7-1",
+        "etazh": 7,
+        "number": 9,
+        "status": 2
+    }
+
+    ,
+    "flat73":
+    {
+        "name": 76,
+        "ftype": "7-6",
+        "etazh": 7,
+        "number": 4,
+        "status": 2
+    },
+    "flat74":
+    {
+        "name": 77,
+        "ftype": "7-7",
+        "etazh": 7,
+        "number": 3,
+        "status": 2
+    },
+    "flat76":
+    {
+        "name": 78,
+        "ftype": "7-8",
+        "etazh": 7,
+        "number": 2,
+        "status": 2
+    }
+
+
+
+    ,
+    "flat87":
+    {
+        "name": 81,
+        "ftype": "8-1",
+        "etazh": 8,
+        "number": 2,
+        "status": 2
+    },
+    "flat85":
+    {
+        "name": 82,
+        "ftype": "8-2",
+        "etazh": 8,
+        "number": 4,
+        "status": 2
+    },
+    "flat81":
+    {
+        "name": 84,
+        "ftype": "8-4",
+        "etazh": 8,
+        "number": 3,
+        "status": 2
+    }
+
+    ,
+    "flat83":
+    {
+        "name": 86,
+        "ftype": "8-6",
+        "etazh": 8,
+        "number": 4,
+        "status": 2
+    },
+    "flat84":
+    {
+        "name": 87,
+        "ftype": "8-7",
+        "etazh": 8,
+        "number": 3,
+        "status": 2
+    },
+    "flat86":
+    {
+        "name": 88,
+        "ftype": "8-8",
+        "etazh": 8,
+        "number": 2,
+        "status": 2
+    }
+
+
+
+    ,
+    "flat97":
+    {
+        "name": 91,
+        "ftype": "2-3",
+        "etazh": 9,
+        "number": 2,
+        "status": 2
+    },
+    "flat95":
+    {
+        "name": 92,
+        "ftype": "9-2",
+        "etazh": 9,
+        "number": 3,
+        "status": 2
+    },
+    "flat91":
+    {
+        "name": 93,
+        "ftype": "9-3",
+        "etazh": 9,
+        "number": 4,
+        "status": 2
+    }
+
+    ,
+    "flat93":
+    {
+        "name": 96,
+        "ftype": "4-2",
+        "etazh": 9,
+        "number": 4,
+        "status": 2
+    },
+    "flat94":
+    {
+        "name": 97,
+        "ftype": "9-7",
+        "etazh": 9,
+        "number": 3,
+        "status": 2
+    }
+
+
+
+
+
+    ,
+    "flat105":
+    {
+        "name": 102,
+        "ftype": "10-2",
+        "etazh": 10,
+        "number": 4,
+        "status": 2
+    },
+    "flat101":
+    {
+        "name": 103,
+        "ftype": "10-3",
+        "etazh": 10,
+        "number": 2,
+        "status": 2
+    },
+    "flat108":
+    {
+        "name": 104,
+        "ftype": "10-4",
+        "etazh": 10,
+        "number": 2,
+        "status": 2
+    }
+
+    ,
+    "flat103":
+    {
+        "name": 106,
+        "ftype": "4-2",
+        "etazh": 10,
+        "number": 4,
+        "status": 2
+    },
+    "flat104":
+    {
+        "name": 107,
+        "ftype": "10-7",
+        "etazh": 10,
+        "number": 3,
+        "status": 2
+    },
+    "flat106":
+    {
+        "name": 108,
+        "ftype": "2-2",
+        "etazh": 10,
+        "number": 2,
+        "status": 2
+    }
+
+
+
+    ,
+    "flat117":
+    {
+        "name": 111,
+        "ftype": "2-3",
+        "etazh": 11,
+        "number": 2,
+        "status": 2
+    },
+    "flat115":
+    {
+        "name": 112,
+        "ftype": "3-2",
+        "etazh": 11,
+        "number": 3,
+        "status": 2
+    },
+    "flat111":
+    {
+        "name": 113,
+        "ftype": "11-2-4",
+        "etazh": 11,
+        "number": 2,
+        "status": 2
+    },
+    "flat118":
+    {
+        "name": 114,
+        "ftype": "11-3-3",
+        "etazh": 11,
+        "number": 3,
+        "status": 2
+    }
+
+    ,
+    "flat113":
+    {
+        "name": 116,
+        "ftype": "11-3-4",
+        "etazh": 11,
+        "number": 3,
+        "status": 1
+    },
+    "flat114":
+    {
+        "name": 117,
+        "ftype": "3-1",
+        "etazh": 11,
+        "number": 3,
+        "status": 2
+    },
+    "flat116":
+    {
+        "name": 118,
+        "ftype": "2-2",
+        "etazh": 11,
+        "number": 2,
+        "status": 2
+    }
+
+
+
+
+
+    ,
+    "flat127":
+    {
+        "name": 121,
+        "ftype": "12-1",
+        "etazh": 12,
+        "number": 3,
+        "status": 2,
+        "level": "flat132",
+        "levelc": "&#9650; на 2-ой уровень"
+    },
+    "flat124":
+    {
+        "name": 122,
+        "ftype": "12-2",
+        "etazh": 12,
+        "number": 5,
+        "status": 2,
+        "level": "flat134",
+        "levelc": "&#9650; на 2-ой уровень"
+    },
+    "flat121":
+    {
+        "name": 123,
+        "ftype": "12-3",
+        "etazh": 12,
+        "number": 6,
+        "status": 2,
+        "level": "flat131",
+        "levelc": "&#9650; на 2-ой уровень"
+    }
+
+
+    ,
+    "flat123":
+    {
+        "name": 126,
+        "ftype": "12-6",
+        "etazh": 12,
+        "number": 5,
+        "status": 2,
+        "level": "flat133",
+        "levelc": "&#9650; на 2-ой уровень"
+    },
+    "flat125":
+    {
+        "name": 127,
+        "ftype": "12-7",
+        "etazh": 12,
+        "number": 5,
+        "status": 2,
+        "level": "flat135",
+        "levelc": "&#9650; на 2-ой уровень"
+    },
+    "flat126":
+    {
+        "name": 128,
+        "ftype": "12-8",
+        "etazh": 12,
+        "number": 3,
+        "status": 2,
+        "level": "flat136",
+        "levelc": "&#9650; на 2-ой уровень"
+    }
+
+
+
+
+    ,
+    "flat132":
+    {
+        "name": 121,
+        "ftype": "t-1",
+        "etazh": "T",
+        "number": 3,
+        "status": 2,
+        "level": "flat127",
+        "levelc": "&#9660; на 1-ый уровень"
+    },
+    "flat134":
+    {
+        "name": 122,
+        "ftype": "t-2",
+        "etazh": "T",
+        "number": 5,
+        "status": 2,
+        "level": "flat124",
+        "levelc": "&#9660; на 1-ый уровень"
+    },
+    "flat131":
+    {
+        "name": 123,
+        "ftype": "t-3",
+        "etazh": "T",
+        "number": 6,
+        "status": 2,
+        "level": "flat121",
+        "levelc": "&#9660; на 1-ый уровень"
+    }
+
+    ,
+    "flat133":
+    {
+        "name": 126,
+        "ftype": "t-6",
+        "etazh": "T",
+        "number": 5,
+        "status": 2,
+        "level": "flat123",
+        "levelc": "&#9660; на 1-ый уровень"
+    },
+    "flat135":
+    {
+        "name": 127,
+        "ftype": "t-7",
+        "etazh": "T",
+        "number": 5,
+        "status": 2,
+        "level": "flat125",
+        "levelc": "&#9660; на 1-ый уровень"
+    },
+    "flat136":
+    {
+        "name": 128,
+        "ftype": "t-8",
+        "etazh": "T",
+        "number": 3,
+        "status": 2,
+        "level": "flat126",
+        "levelc": "&#9660; на 1-ый уровень"
+    }
+
+
+
+
+
+    ,
+    "p1":
+    {
+        "name": 1,
+        "ftype": "p1",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p2":
+    {
+        "name": 2,
+        "ftype": "p2",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p3":
+    {
+        "name": 3,
+        "ftype": "p3",
+        "etazh": "P",
+        "number": "-",
+        "status": 1
+    },
+    "p4":
+    {
+        "name": 4,
+        "ftype": "p4",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p5":
+    {
+        "name": 5,
+        "ftype": "p5",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p6":
+    {
+        "name": 6,
+        "ftype": "p6",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p7":
+    {
+        "name": 7,
+        "ftype": "p7",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p8":
+    {
+        "name": 8,
+        "ftype": "p8",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p9":
+    {
+        "name": 9,
+        "ftype": "p9",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p10":
+    {
+        "name": 10,
+        "ftype": "p10",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p11":
+    {
+        "name": 11,
+        "ftype": "p11",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p12":
+    {
+        "name": 12,
+        "ftype": "p12",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p13":
+    {
+        "name": 13,
+        "ftype": "p13",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p14":
+    {
+        "name": 14,
+        "ftype": "p14",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p15":
+    {
+        "name": 15,
+        "ftype": "p15",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p16":
+    {
+        "name": 16,
+        "ftype": "p16",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p17":
+    {
+        "name": 17,
+        "ftype": "p17",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p18":
+    {
+        "name": 18,
+        "ftype": "p18",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p19":
+    {
+        "name": 19,
+        "ftype": "p19",
+        "etazh": "P",
+        "number": "-",
+        "status": 1
+    },
+    "p20":
+    {
+        "name": 20,
+        "ftype": "p20",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p21":
+    {
+        "name": 21,
+        "ftype": "p21",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p22":
+    {
+        "name": 22,
+        "ftype": "p22",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p23":
+    {
+        "name": 23,
+        "ftype": "p23",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p24":
+    {
+        "name": 24,
+        "ftype": "p24",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p25":
+    {
+        "name": 25,
+        "ftype": "p25",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p26":
+    {
+        "name": 26,
+        "ftype": "p26",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p27":
+    {
+        "name": 27,
+        "ftype": "p27",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p28":
+    {
+        "name": 28,
+        "ftype": "p28",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p29":
+    {
+        "name": 29,
+        "ftype": "p29",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p30":
+    {
+        "name": 30,
+        "ftype": "p30",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p31":
+    {
+        "name": 31,
+        "ftype": "p31",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p32":
+    {
+        "name": 32,
+        "ftype": "p32",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p33":
+    {
+        "name": 33,
+        "ftype": "p33",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p34":
+    {
+        "name": 34,
+        "ftype": "p34",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p35":
+    {
+        "name": 35,
+        "ftype": "p35",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p36":
+    {
+        "name": 36,
+        "ftype": "p36",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    },
+    "p37":
+    {
+        "name": 37,
+        "ftype": "p37",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    }
+
+    ,
+    "p38":
+    {
+        "name": 38,
+        "ftype": "p38",
+        "etazh": "P",
+        "number": "-",
+        "status": 2
+    }
+}

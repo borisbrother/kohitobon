@@ -1,0 +1,40 @@
+.years {
+	position:absolute;
+	margin-left: 521px;
+	top: 0;
+
+}
+
+.years span {
+	position: absolute;
+	display:block;
+	width: 48px;
+	height: 48px;
+	background: url(../img/year-backgr.png) left top no-repeat;
+	color: #fff;
+	padding-top: 17px; 
+	text-align: center;
+	font-size: 12px;
+}
+
+.years span.y2014 {
+	top: 1713px;
+}
+
+.years span.y2015 {
+	top: 1325px;
+}
+
+.years span.y2016 {
+	top: 988px;
+}
+.years span.y2017 {
+	top: 694px;
+}
+.years span.y2018 {
+	top: 300px;
+}
+
+.years span.y2019 {
+	top: 98px;
+}

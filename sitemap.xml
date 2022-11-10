@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
+	<url>
+		<loc>http://kohitobon.tj/</loc>
+		<lastmod>2014-11-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://kohitobon.tj/benefits.html</loc>
+		<lastmod>2014-11-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://kohitobon.tj/select_etazh.html</loc>
+		<lastmod>2014-11-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://kohitobon.tj/select_flat.html</loc>
+		<lastmod>2014-11-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://kohitobon.tj/documentation.html</loc>
+		<lastmod>2014-11-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://kohitobon.tj/constr.html</loc>
+		<lastmod>2014-11-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>

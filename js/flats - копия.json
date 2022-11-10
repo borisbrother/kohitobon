@@ -1,0 +1,155 @@
+{	
+	"flat27": {"name": 21, "ftype" : "2-3", "etazh": 2, "number": 2, "status": 2}
+	,"flat25": {"name": 22, "ftype" : "3-2", "etazh": 2, "number": 3, "status": 2}
+	,"flat21": {"name": 23, "ftype": "4-1", "etazh": 2, "number": 4, "status": 2}
+	
+	,"flat23": {"name": 26, "ftype" : "4-2", "etazh": 2, "number": 4, "status": 1}
+	,"flat24": {"name": 27, "ftype" : "3-1", "etazh": 2, "number": 3, "status": 2}
+	,"flat26": {"name": 28, "ftype" : "2-2", "etazh": 2, "number": 2, "status": 2}
+
+
+	
+	,"flat37": {"name": 31, "ftype" : "2-3", "etazh": 3, "number": 2, "status": 1}
+	,"flat35": {"name": 32, "ftype" : "3-2", "etazh": 3, "number": 3, "status": 1}
+	,"flat31": {"name": 33, "ftype" : "4-1", "etazh": 3, "number": 4, "status": 2}
+	
+	,"flat33": {"name": 36, "ftype" : "4-2", "etazh": 3, "number": 4, "status": 1}
+	,"flat34": {"name": 37, "ftype" : "3-1", "etazh": 3, "number": 3, "status": 1}
+	,"flat36": {"name": 38, "ftype" : "2-2", "etazh": 3, "number": 2, "status": 1}
+
+	
+	,"flat47": {"name": 41, "ftype" : "2-3", "etazh": 4, "number": 2, "status": 1}
+	,"flat45": {"name": 42, "ftype" : "3-2", "etazh": 4, "number": 3, "status": 1}
+	,"flat41": {"name": 43, "ftype" : "4-1", "etazh": 4, "number": 4, "status": 1}
+	
+	,"flat43": {"name": 46, "ftype" : "4-2", "etazh": 4, "number": 4, "status": 1}
+	,"flat44": {"name": 47, "ftype" : "3-1", "etazh": 4, "number": 3, "status": 2}
+	,"flat46": {"name": 48, "ftype" : "2-2", "etazh": 4, "number": 2, "status": 1}
+
+	
+	,"flat57": {"name": 51, "ftype" : "2-3", "etazh": 5, "number": 2, "status": 2}
+	,"flat55": {"name": 52, "ftype" : "3-2", "etazh": 5, "number": 3, "status": 2}
+	,"flat51": {"name": 53, "ftype" : "4-1", "etazh": 5, "number": 4, "status": 1}
+	
+	,"flat53": {"name": 56, "ftype" : "4-2", "etazh": 5, "number": 4, "status": 1}
+	,"flat54": {"name": 57, "ftype" : "3-1", "etazh": 5, "number": 3, "status": 2}
+	,"flat56": {"name": 58, "ftype" : "2-2", "etazh": 5, "number": 2, "status": 1}
+	
+
+	
+	,"flat67": {"name": 61, "ftype" : "2-3", "etazh": 6, "number": 2, "status": 2}
+	,"flat65": {"name": 62, "ftype" : "3-2", "etazh": 6, "number": 3, "status": 2}
+	,"flat61": {"name": 63, "ftype" : "4-1", "etazh": 6, "number": 4, "status": 1}
+
+	,"flat63": {"name": 66, "ftype" : "4-2", "etazh": 6, "number": 4, "status": 1}
+	,"flat64": {"name": 67, "ftype" : "3-1", "etazh": 6, "number": 3, "status": 2}
+	,"flat66": {"name": 68, "ftype" : "2-2", "etazh": 6, "number": 2, "status": 2}
+	
+
+	
+	,"flat77": {"name": 71, "ftype" : "2-3", "etazh": 7, "number": 2, "status": 1}
+	,"flat75": {"name": 72, "ftype" : "3-2", "etazh": 7, "number": 3, "status": 1}
+	,"flat71": {"name": 73, "ftype" : "4-1", "etazh": 7, "number": 4, "status": 1}
+
+	,"flat73": {"name": 76, "ftype" : "4-2", "etazh": 7, "number": 4, "status": 1}
+	,"flat74": {"name": 77, "ftype" : "3-1", "etazh": 7, "number": 3, "status": 2}
+	,"flat76": {"name": 78, "ftype" : "2-2", "etazh": 7, "number": 2, "status": 2}
+	
+
+	
+	,"flat87": {"name": 81, "ftype" : "2-3", "etazh": 8, "number": 2, "status": 1}
+	,"flat85": {"name": 82, "ftype" : "3-2", "etazh": 8, "number": 3, "status": 1}
+	,"flat81": {"name": 83, "ftype" : "4-1", "etazh": 8, "number": 4, "status": 1}
+
+	,"flat83": {"name": 86, "ftype" : "4-2", "etazh": 8, "number": 4, "status": 1}
+	,"flat84": {"name": 87, "ftype" : "3-1", "etazh": 8, "number": 3, "status": 2}
+	,"flat86": {"name": 88, "ftype" : "2-2", "etazh": 8, "number": 2, "status": 2}
+	
+
+	
+	,"flat97": {"name": 91, "ftype" : "2-3", "etazh": 9, "number": 2, "status": 2}
+	,"flat95": {"name": 92, "ftype" : "3-2", "etazh": 9, "number": 3, "status": 1}
+	,"flat91": {"name": 93, "ftype" : "4-1", "etazh": 9, "number": 4, "status": 1}
+	
+	,"flat93": {"name": 96, "ftype" : "4-2", "etazh": 9, "number": 4, "status": 1}
+	,"flat94": {"name": 97, "ftype" : "3-1", "etazh": 9, "number": 3, "status": 2}
+	,"flat96": {"name": 98, "ftype" : "2-2", "etazh": 9, "number": 2, "status": 2}
+	
+
+	
+	,"flat107": {"name": 101, "ftype" : "2-3", "etazh": 10, "number": 2, "status": 2}
+	,"flat105": {"name": 102, "ftype" : "3-2", "etazh": 10, "number": 3, "status": 1}
+	,"flat101": {"name": 103, "ftype" : "4-1", "etazh": 10, "number": 4, "status": 1}
+	
+	,"flat103": {"name": 106, "ftype" : "4-2", "etazh": 10, "number": 4, "status": 1}
+	,"flat104": {"name": 107, "ftype" : "3-1", "etazh": 10, "number": 3, "status": 2}
+	,"flat106": {"name": 108, "ftype" : "2-2", "etazh": 10, "number": 2, "status": 2}
+	
+
+	
+	
+
+	,"flat117": {"name": 111, "ftype": "2-3-11", "etazh": 11, "number": 3, "status": 1 ,"level": "flat122", "levelc":"&#9650; на 2-ой уровень"}
+	,"flat114": {"name": 112, "ftype": "3-2-11", "etazh": 11, "number": 5, "status": 1 ,"level": "flat124", "levelc":"&#9650; на 2-ой уровень"}
+	,"flat111": {"name": 113, "ftype": "4-1-11", "etazh": 11, "number": 6, "status": 1 ,"level": "flat121", "levelc":"&#9650; на 2-ой уровень"}
+
+	,"flat112": {"name": 115, "ftype": "1-1-11", "etazh": 11, "number": 1, "status": 2}
+	,"flat113": {"name": 116, "ftype": "2-1-11", "etazh": 11, "number": 5, "status": 1 ,"level": "flat123", "levelc":"&#9650; на 2-ой уровень"}
+	,"flat115": {"name": 117, "ftype": "3-1-11", "etazh": 11, "number": 5, "status": 2 ,"level": "flat125", "levelc":"&#9650; на 2-ой уровень"}
+	,"flat116": {"name": 118, "ftype": "2-2-11", "etazh": 11, "number": 3, "status": 1 ,"level": "flat126", "levelc":"&#9650; на 2-ой уровень"}
+
+
+	
+
+	,"flat122": {"name": 111, "ftype":"2-3-11-2", "etazh": 12, "number": 3, "status": 1, "level": "flat117", "levelc":"&#9660; на 1-ый уровень"}
+	,"flat124": {"name": 112, "ftype":"3-2-11-2", "etazh": 12, "number": 5, "status": 1, "level": "flat114", "levelc":"&#9660; на 1-ый уровень"}
+	,"flat121": {"name": 113, "ftype":"4-1-11-2", "etazh": 12, "number": 6, "status": 1, "level": "flat111", "levelc":"&#9660; на 1-ый уровень"}	
+
+	,"flat123": {"name": 116, "ftype":"2-1-11-2", "etazh": 12, "number": 5, "status": 1, "level": "flat113", "levelc":"&#9660; на 1-ый уровень"}
+	,"flat125": {"name": 117, "ftype":"3-1-11-2", "etazh": 12, "number": 5, "status": 2, "level": "flat115", "levelc":"&#9660; на 1-ый уровень"}
+	,"flat126": {"name": 118, "ftype":"2-2-11-2", "etazh": 12, "number": 3, "status": 1, "level": "flat116", "levelc":"&#9660; на 1-ый уровень"}
+
+
+
+
+	
+	,"p1": {"name": 1, "ftype": "p1", "etazh": "P", "number": "-", "status": 1}
+	,"p2": {"name": 2, "ftype": "p2", "etazh": "P", "number": "-", "status": 1}
+	,"p3": {"name": 3, "ftype": "p3", "etazh": "P", "number": "-", "status": 1}
+	,"p4": {"name": 4, "ftype": "p4", "etazh": "P", "number": "-", "status": 1}
+	,"p5": {"name": 5, "ftype": "p5", "etazh": "P", "number": "-", "status": 1}
+	,"p6": {"name": 6, "ftype": "p6", "etazh": "P", "number": "-", "status": 1}
+	,"p7": {"name": 7, "ftype": "p7", "etazh": "P", "number": "-", "status": 1}
+	,"p8": {"name": 8, "ftype": "p8", "etazh": "P", "number": "-", "status": 1}
+	,"p9": {"name": 9, "ftype": "p9", "etazh": "P", "number": "-", "status": 1}
+	,"p10": {"name": 10, "ftype": "p10", "etazh": "P", "number": "-", "status": 1}
+	,"p11": {"name": 11, "ftype": "p11", "etazh": "P", "number": "-", "status": 1}
+	,"p12": {"name": 12, "ftype": "p12", "etazh": "P", "number": "-", "status": 1}
+	,"p13": {"name": 13, "ftype": "p13", "etazh": "P", "number": "-", "status": 1}
+	,"p14": {"name": 14, "ftype": "p14", "etazh": "P", "number": "-", "status": 1}
+	,"p15": {"name": 15, "ftype": "p15", "etazh": "P", "number": "-", "status": 1}
+	,"p16": {"name": 16, "ftype": "p16", "etazh": "P", "number": "-", "status": 1}
+	,"p17": {"name": 17, "ftype": "p17", "etazh": "P", "number": "-", "status": 1}
+	,"p18": {"name": 18, "ftype": "p18", "etazh": "P", "number": "-", "status": 1}
+	,"p19": {"name": 19, "ftype": "p19", "etazh": "P", "number": "-", "status": 1}
+	,"p20": {"name": 20, "ftype": "p20", "etazh": "P", "number": "-", "status": 1}
+	,"p21": {"name": 21, "ftype": "p21", "etazh": "P", "number": "-", "status": 1}
+	,"p22": {"name": 22, "ftype": "p22", "etazh": "P", "number": "-", "status": 1}
+	,"p23": {"name": 23, "ftype": "p23", "etazh": "P", "number": "-", "status": 1}
+	,"p24": {"name": 24, "ftype": "p24", "etazh": "P", "number": "-", "status": 1}
+	,"p25": {"name": 25, "ftype": "p25", "etazh": "P", "number": "-", "status": 1}
+	,"p26": {"name": 26, "ftype": "p26", "etazh": "P", "number": "-", "status": 1}
+	,"p27": {"name": 27, "ftype": "p27", "etazh": "P", "number": "-", "status": 1}
+	,"p28": {"name": 28, "ftype": "p28", "etazh": "P", "number": "-", "status": 1}
+	,"p29": {"name": 29, "ftype": "p29", "etazh": "P", "number": "-", "status": 1}
+	,"p30": {"name": 30, "ftype": "p30", "etazh": "P", "number": "-", "status": 1}
+	,"p31": {"name": 31, "ftype": "p31", "etazh": "P", "number": "-", "status": 1}
+	,"p32": {"name": 32, "ftype": "p32", "etazh": "P", "number": "-", "status": 1}
+	,"p33": {"name": 33, "ftype": "p33", "etazh": "P", "number": "-", "status": 1}
+	,"p34": {"name": 34, "ftype": "p34", "etazh": "P", "number": "-", "status": 1}
+	,"p35": {"name": 35, "ftype": "p35", "etazh": "P", "number": "-", "status": 1}
+	,"p36": {"name": 36, "ftype": "p36", "etazh": "P", "number": "-", "status": 1}
+	,"p37": {"name": 37, "ftype": "p37", "etazh": "P", "number": "-", "status": 1}
+
+	,"p38": {"name": 38, "ftype": "p38", "etazh": "P", "number": "-", "status": 1}
+}
